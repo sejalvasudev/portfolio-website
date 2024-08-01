@@ -233,7 +233,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
 <!-- **** Hero Section of Homepage **** -->
 <section class="home-hero">
   <div class="home-hero__content">
-    <h1 class="heading-primary">Hey, My name is John Doe</h1>
+    <h1 class="heading-primary">Hey, My name is Sejal Vasudev</h1>
     <div class="home-hero__info">
       <p class="text-primary">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
@@ -352,14 +352,16 @@ Go to `/index.html` and fill your information, there are 6 sections:
           <div class="skills__skill">CSS</div>
           <div class="skills__skill">JavaScript</div>
           <div class="skills__skill">React</div>
-          <div class="skills__skill">SASS</div>
-          <div class="skills__skill">GIT</div>
-          <div class="skills__skill">Shopify</div>
-          <div class="skills__skill">Wordpress</div>
-          <div class="skills__skill">Google ADS</div>
-          <div class="skills__skill">Facebook Ads</div>
-          <div class="skills__skill">Android</div>
-          <div class="skills__skill">IOS</div>
+          <div class="skills__skill">Docker</div>
+          <div class="skills__skill">Kubernetes</div>
+          <div class="skills__skill">Tensorflow</div>
+          <div class="skills__skill">ski-kit learn</div>
+          <div class="skills__skill">Python</div>
+          <div class="skills__skill">Java</div>
+          <div class="skills__skill">C</div>
+          <div class="skills__skill">C++</div>
+          <div class="skills__skill">R</div>\
+          <div class="skills__skill">C++</div>
         </div>
       </div>
     </div>
