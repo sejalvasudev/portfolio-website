@@ -386,15 +386,16 @@ textarea {
 }
 
 .projects__tools {
-  font-size: 1.5em; /* Tools title font size */
+  font-size: 2rem; /* Increased font size to match project description */
   color: #fff; /* White color for tools title */
-  margin-bottom: 10px; /* Space below the tools title */
+  margin-bottom: 15px; /* Adjusted space below the tools title to match project description */
 }
 
 .projects__tools-list {
   list-style-type: none; /* Remove default list styling */
   padding: 0; /* Remove padding */
   color: #e0e0e0; /* Light grey color for tools list */
+  font-size: 1.7rem; /* Increased font size for tools list items */
 }
 
 .projects__link {

@@ -233,7 +233,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
 <!-- **** Hero Section of Homepage **** -->
 <section class="home-hero">
   <div class="home-hero__content">
-    <h1 class="heading-primary">Hello, My name is Sejal Vasudev</h1>
+    <h1 class="heading-primary">Hey, My name is Sejal Vasudev</h1>
     <div class="home-hero__info">
       <p class="text-primary">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
