@@ -167,6 +167,24 @@ textarea {
   margin: auto;
   width: 92%;
 }
+/* ... existing code ... */
+
+.btn--download-resume {
+  display: block; /* Centering the button */
+  margin: 0 auto 0 35%; /* Move the button to the right a little */
+  font-weight: bold; /* Make the text bold */
+  font-size: 2rem; /* Increase font size */
+  transition: background 0.3s; /* Smooth transition for hover effect */
+  text-align: center; /* Center the text within the button */
+  padding: 1.5rem 3rem; /* Adjust padding for better styling */
+  border-radius: 5px; /* Rounded corners for a modern look */
+}
+
+.btn--download-resume:hover {
+  background: rgba(96, 16, 224, 0.8); /* Highlight on hover */
+  color: #fff; /* Change text color on hover */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15); /* Add shadow for depth */
+}
 
 .btn {
   background: #fff;
